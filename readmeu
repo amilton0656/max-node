@@ -2,3 +2,9 @@ yarn add
     nodemon 
     express 
     body-parser
+
+    ejs
+    pug
+    express-handlebars
+
+    yarn add ejs pug express-handlebars
