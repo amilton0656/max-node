@@ -4,7 +4,5 @@ yarn add
     body-parser
 
     ejs
-    pug
-    express-handlebars
 
-    yarn add ejs pug express-handlebars
+    mysql2
